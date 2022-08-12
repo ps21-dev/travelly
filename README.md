@@ -1,5 +1,5 @@
-# IT 331 - Class Project
-- HTML, CSS, Bootstrap, JavaScript functions
+# Travelly - Simple Travel Website
+- HTML, CSS, Animations
 
 ## Live Demo
-https://psaromo.github.io/Class-Project/
+https://psaromo.github.io/travelly/
